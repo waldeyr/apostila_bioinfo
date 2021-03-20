@@ -22,4 +22,9 @@
 
 `jupyter-notebook`
 
-# Uma lista de arquivos vai se abrir, entre eles está o "Python_Notebook.ipynb", abra-o e bom trabalho!
+Uma lista de arquivos vai se abrir, entre eles estão:
+
+* Python_Notebook.ipynb
+* R_Notebook.ipynb
+
+Abra-os e bom trabalho!
